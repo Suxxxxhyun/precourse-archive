@@ -25,6 +25,13 @@
   - priavte함수를 테스트하고 싶다면 클래스 분리하기
   - 단위테스트하기 어려운 코드를 단위테스트하기(?) -> 아직 이해 안됨.
 
+## 📎 꼭 짚고 넘어가야할 부분 정리
+
+- [JUnit과 AssertJ 사용법](https://techcourse-storage.s3.ap-northeast-2.amazonaws.com/9b82d8a360c548fcadd14c551dbcbe06)
+- [Getter지양 방법](https://tecoble.techcourse.co.kr/post/2020-04-28-ask-instead-of-getter/)
+- [메서드 시그니처를 수정하여 테스트하기 좋은 메서드로 만들기](https://tecoble.techcourse.co.kr/post/2020-05-07-appropriate_method_for_test_by_parameter/)
+
+
 ## 📒 학습 로그
 
 [입력값 검증을 InputView에서 할까? VS Domain에서 할까?](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(1).md)
