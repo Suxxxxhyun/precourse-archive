@@ -43,3 +43,4 @@
 - [일급컬렉션 사용 이유와 불변성 보장 방법](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(5).md)
   - 일급컬레션 : Collection을 Wrapping하면서, Wrapping한 Collection 외 다른 멤버 변수가 없는 상태
 - [정적 팩토리 메소드 권장 이유](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(6).md)
+  - 정적 팩토리 메소드 : of, from 등 메소드 이름을 지정하고, 생성자 호출 방식이 아닌, 메서드 호출 방식으로 객체를 생성하는 것
