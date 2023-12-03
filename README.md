@@ -38,3 +38,4 @@
 - [getter를 지양해야하는 이유 및 지양 방법, 또 무조건 지양해야해?](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(2).md)
   - 캡슐화 : **외부에서 객체 내부에 어떤 속성이 있는지 완벽하게 알지 못하게 해야한다.**
   - 디미터 법칙 : **다른 객체가 어떠한 자료를 갖고 있는지 속사정을 몰라야 한다는 것을 의미**
+- [HashSet 중복여부 판별 재정의](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(3).md)
