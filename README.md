@@ -1,6 +1,6 @@
-## precourse-archive
+### precourse-archive
 
-2023.10.19 ~ 2023.12.
+## 2023.10.19 ~ 2023.12.
 | project | repository |
 | --- | --- |
 | 숫자야구 | https://github.com/woowacourse-precourse/java-baseball-6/pull/286 |
@@ -13,4 +13,5 @@
 
 📄 공통 피드백 모음
 [1주차 공통 피드백]()
+
 [2주차 공통 피드백]()
