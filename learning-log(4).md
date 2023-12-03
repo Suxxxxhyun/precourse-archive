@@ -1,3 +1,4 @@
+### 전역에러를 처리하는 ControllerAdvice, RestControllerAdvice
 - Spring은 전역적으로 ExceptionHandler를 적용할 수 있는 `@ControllerAdvice`와 `@RestControllerAdvice` 어노테이션을 제공하고 있다.
 - `@ControllerAdivce`는 여러 컨트롤러에 대해 전역적으로 ExceptionHandler를 적용해준다. 다음과 같이 에러를 핸들링하는 클래스를 만들어 어노테이션을 붙여주면 에러 처리를 위임할 수 있다.
 
