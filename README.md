@@ -11,13 +11,13 @@
 
 ## 📄 공통 피드백 모음
 
-[1주차 공통 피드백](https://github.com/Suxxxxhyun/precourse-archive/blob/main/common-feedback-week-1.md)
+[1주차 공통 피드백](https://github.com/Suxxxxhyun/precourse-archive/blob/main/common-feedback/common-feedback-week-1.md)
 
-[2주차 공통 피드백](https://github.com/Suxxxxhyun/precourse-archive/blob/main/common-feedback-week-2.md) 
+[2주차 공통 피드백](https://github.com/Suxxxxhyun/precourse-archive/blob/main/common-feedback/common-feedback-week-2.md)
   - 예외사항도 Read.me에 적기
   - 함수의 길이를 15라인이 넘지 않도록 하기
 
-[3주차 공통 피드백](https://github.com/Suxxxxhyun/precourse-archive/blob/main/common-feedback-week-3.md)
+[3주차 공통 피드백](https://github.com/Suxxxxhyun/precourse-archive/blob/main/common-feedback/common-feedback-week-3.md)
   - 연관성이 있는 상수는 static final 대신 Enum을 활용하기
   - getter지양 [Getter지양 방법](https://tecoble.techcourse.co.kr/post/2020-04-28-ask-instead-of-getter/)
   - 객체의 필드의 수를 줄이기 위해 노력하기
