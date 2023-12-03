@@ -1,4 +1,4 @@
-### HashSet 중복여부 판별 재정의
+## HashSet 중복여부 판별 재정의
 
 <img src="./HashSetTest.png" >
 
