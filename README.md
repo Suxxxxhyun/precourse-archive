@@ -21,7 +21,7 @@
   - 연관성이 있는 상수는 static final 대신 Enum을 활용하기
   - getter지양 / [참조블로그](https://tecoble.techcourse.co.kr/post/2020-04-28-ask-instead-of-getter/)
   - 객체의 필드의 수를 줄이기 위해 노력하기
-  - 테스트코드도 리팩토링을 하기, 파라미터의 값만 바뀌는 경우라면 @ValueSource이용하기
+  - 테스트코드도 리팩토링을 하기, 파라미터의 값만 바뀌는 경우라면 **@ValueSource**이용하기
   - priavte함수를 테스트하고 싶다면 클래스 분리하기
   - 단위테스트하기 어려운 코드를 단위테스트하기(?) -> 아직 이해 안됨.
 
