@@ -1,6 +1,8 @@
 ### HashSet 중복여부 판별 재정의
 
-https://github.com/Suxxxxhyun/precourse-archive/blob/main/HashSetTest.png
+<p align="center">
+  <img src="[HashSetTest](https://github.com/Suxxxxhyun/precourse-archive/blob/main/HashSetTest.png)">
+</p>
 
 - 위 두 객체는 주솟값이 다르기때문에 중복여부에서 판별되지 않고있다.
 
