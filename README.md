@@ -42,3 +42,4 @@
 - [전역에러를 처리하는 ControllerAdvice, RestControllerAdvice](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(4).md)
 - [일급컬렉션 사용 이유와 불변성 보장 방법](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(5).md)
   - 일급컬레션 : Collection을 Wrapping하면서, Wrapping한 Collection 외 다른 멤버 변수가 없는 상태
+- [정적 팩토리 메소드 권장 이유](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(6).md)
