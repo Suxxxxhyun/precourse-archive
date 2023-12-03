@@ -21,6 +21,8 @@
 ### 3. 템플릿 콜백 패턴
 
 다른 코드의 인수로써 넘겨주는 실행 가능한 코드를 **Callback이라고 한다.**
+
+
 <img src="./template-callback-1.png" >
 <img src="./template-callback-2.png" >
 
