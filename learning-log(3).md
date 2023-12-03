@@ -1,6 +1,6 @@
 ### HashSet 중복여부 판별 재정의
 
-
+https://github.com/Suxxxxhyun/precourse-archive/blob/main/HashSetTest.png
 
 - 위 두 객체는 주솟값이 다르기때문에 중복여부에서 판별되지 않고있다.
 
@@ -13,42 +13,42 @@ Name의 n필드가 서로 같다면 중복이 되도록 해주고 싶다!
 (자동차 경주[2차] 때 적용함.)
 
 ```jsx
-**public class** Cars {
-    **private final** List<Car> cars;
+public class Cars {
+    private final List<Car> cars;
 ```
 
 ```jsx
-**private void** validateDuplicateCarName() {
-    **int** uniqueCarCount = **new** HashSet<>(cars).size();
-    **if** (cars.size() != uniqueCarCount) {
-        **throw new** DuplicateException(***DUPLICATE_MESSAGE***.getValue());
+private void validateDuplicateCarName() {
+    int uniqueCarCount = new HashSet<>(cars).size();
+    if (cars.size() != uniqueCarCount) {
+        throw new DuplicateException(DUPLICATE_MESSAGE.getValue());
     }
 }
 ```
 
 ```jsx
-@Override**public boolean** equals(Object diffCarName) {
-    **if** (**this** == diffCarName) **return true**;
-    **if** (diffCarName == **null** || getClass() != diffCarName.getClass()) **return false**;
+@Override public boolean equals(Object diffCarName) {
+    if (this == diffCarName) return true;
+    if (diffCarName == null || getClass() != diffCarName.getClass()) return false;
     Name carName = (Name) diffCarName;
-    **return** Objects.*equals*(name, carName.name);
+    return Objects.equals(name, carName.name);
 }
 
-@Override**public int** hashCode() {
-    **return** Objects.*hash*(name);
+@Override public int hashCode() {
+    return Objects.hash(name);
 }
 ```
 
 ```jsx
-@Override**public boolean** equals(Object diffCars) {
-    **if** (**this** == diffCars) **return true**;
-    **if** (diffCars == **null** || getClass() != diffCars.getClass()) **return false**;
+@Override public boolean equals(Object diffCars) {
+    if (this == diffCars) return true;
+    if (diffCars == null || getClass() != diffCars.getClass()) return false;
     Cars cars = (Cars) diffCars;
-    **return** Objects.*equals*(**this**.cars, cars.cars);
+    return Objects.equals(this.cars, cars.cars);
 }
 
-@Override**public int** hashCode() {
-    **return** Objects.*hash*(cars);
+@Override public int hashCode() {
+    return Objects.hash(cars);
 }
 ```
 
