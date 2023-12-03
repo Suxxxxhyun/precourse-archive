@@ -16,7 +16,7 @@
 
 부모 클래스에 메소드를 추가했을때, 자식 클래스에는 적합하지 않는 메소드가 상속되는 문제이다.예를 들어서 아래 그림과 같이 Animal 클래스에 fly() 라는 메소드를 추가했을때, Tiger 자식 클래스에서는 동작하지 않는 메소드가 되어 버린다.물론 메소드를 구현하고 빈칸으로 놔두거나, 클래스를 분리하고 분리하여 해결은 할 수 있지만 결국 복잡해질 뿐이다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/110001d7-b5e4-4360-903f-1a3250b75d15/ac5c5de4-302b-4b8f-a27a-76f0a96cd4d9/Untitled.png)
+<img src="./extend.png" >
 
 ### 3. 부모클래스의 결함이 그대로 넘어옴
 
@@ -36,7 +36,7 @@
 
 예를 들어 Stack의 대표적인 동작은push,pop 이지만, 상속한 Vector 클래스의add 메소드 또한 외부로 노출되게 된다. 그러면서 아래와 같이 개발자가add 메소드도 스택 클래스에서 사용할수 있는 메소드인줄 알고 사용했다가, 의도치 않은 동작이 실행되면서 오류를 범하게 된다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/110001d7-b5e4-4360-903f-1a3250b75d15/fd66e435-4579-41b2-8ca1-82bbd9b1b011/Untitled.png)
+<img src="./stack.png" >
 
 ```java
 Stack<String> stack = new Stack<>();
