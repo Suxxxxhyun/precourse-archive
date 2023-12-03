@@ -41,11 +41,11 @@
 - [HashSet 중복여부 판별 재정의](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(3).md)
 - [전역에러를 처리하는 ControllerAdvice, RestControllerAdvice](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(4).md)
 - [일급컬렉션 사용 이유와 불변성 보장 방법](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(5).md)
-  - 일급컬레션 : Collection을 Wrapping하면서, Wrapping한 Collection 외 다른 멤버 변수가 없는 상태
+  - 일급컬레션 : **Collection을 Wrapping하면서, Wrapping한 Collection 외 다른 멤버 변수가 없는 상태**
 - [정적 팩토리 메소드 권장 이유](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(6).md)
-  - 정적 팩토리 메소드 : of, from 등 메소드 이름을 지정하고, 생성자 호출 방식이 아닌, 메서드 호출 방식으로 객체를 생성하는 것
+  - 정적 팩토리 메소드 : **of, from 등 메소드 이름을 지정하고, 생성자 호출 방식이 아닌, 메서드 호출 방식으로 객체를 생성하는 것**
 - [상속을 자제하고 합성을 이용하자](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(7).md)
-  - IS-A 관계 : 일반적인 개념과 구체적인 개념의 관계
+  - IS-A 관계 : **일반적인 개념과 구체적인 개념의 관계**
     
     > 예시
     > 
@@ -59,7 +59,7 @@
     
     즉, 일반 클래스를 구체화 하는 상황에서 상속을 사용한다.
     
-- HAS-A 관계 : 일반적인 포함 개념의 관계
+- HAS-A 관계 : **일반적인 포함 개념의 관계**
     - 과목 클래스를 포함하는 학생 클래스의 경우 과목 클래스의 코드를 재사용 하기 위해 상속을 사용하지는 않는다.
 - [Enum 캐싱(정적 팩토리 메소드 내용 일부 발췌)]()
 - [템플릿 콜백 패턴]()
