@@ -45,3 +45,5 @@
 - [정적 팩토리 메소드 권장 이유](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(6).md)
   - 정적 팩토리 메소드 : of, from 등 메소드 이름을 지정하고, 생성자 호출 방식이 아닌, 메서드 호출 방식으로 객체를 생성하는 것
 - [상속을 자제하고 합성을 이용하자]()
+- [Enum 캐싱(정적 팩토리 메소드 내용 일부 발췌)]()
+- [템플릿 콜백 패턴]()
