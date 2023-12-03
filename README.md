@@ -19,3 +19,5 @@
 
 
 ## 📒 학습 로그
+
+[입력값 검증을 InputView에서 할까? VS Domain에서 할까?](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log(1).md)
