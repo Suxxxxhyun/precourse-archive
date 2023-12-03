@@ -1,6 +1,6 @@
 ## HashSet 중복여부 판별 재정의
 
-<img src="./HashSetTest.png" >
+<img src="../image/HashSetTest.png" >
 
 - 위 두 객체는 주솟값이 다르기때문에 중복여부에서 판별되지 않고있다.
 

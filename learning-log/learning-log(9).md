@@ -2,8 +2,8 @@
 
 변하는 부분과 변하지 않는 부분을 분리하기 위한 것으로, **템플릿**이라는 틀에 **변하지 않는 부분**을 몰아두고 **변하는 부분**을 **별도로 Override하여 호출**하는 식으로 해결한다.
 
-<img src="./template-method-1.png" >
-<img src="./template-method-2.png" >
+<img src="../image/template-method-1.png" >
+<img src="../image/template-method-2.png" >
 
 익명 내부 클래스를 이용하여 템플릿 메소드 패턴을 사용해볼 수 있다.
 
@@ -23,8 +23,8 @@
 다른 코드의 인수로써 넘겨주는 실행 가능한 코드를 **Callback이라고 한다.**
 
 
-<img src="./template-callback-1.png" >
-<img src="./template-callback-2.png" >
+<img src="../image/template-callback-1.png" >
+<img src="../image/template-callback-2.png" >
 
 
 TraceTemplate 인스턴스의 execute()가 실행될 때 Callback 인터페이스의 구현체를 넘겨받아 그 구현체의 call()을 호출한다.
