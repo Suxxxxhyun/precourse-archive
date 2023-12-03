@@ -15,4 +15,7 @@
 
 [2주차 공통 피드백](https://github.com/Suxxxxhyun/precourse-archive/blob/main/common-feedback-week-2.md) 
   - 예외사항도 Read.me에 적기
-  - 함수의 길이를 15라인이 넘지 않도록 하기 
+  - 함수의 길이를 15라인이 넘지 않도록 하기
+
+
+## 📒 학습 로그
