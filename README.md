@@ -66,3 +66,4 @@
   - EnumMap : **Map의 구현체로, key값으로 Enum이 들어가야하는 구조**
 - [DTO 왜 사용해? Entity와 DTO를 왜 분리해?](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(11).md)
 - [DTO변환 위치 : Controller일까? Service일까?](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(12).md)
+- [싱글톤 패턴이 객체 지향에 위반이 된다는데? 왜?](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(13).md)
