@@ -1,3 +1,5 @@
+## EnumMap이 HashMap보다 성능이 좋은 이유
+
 ### 요약 : 별도로 Hash값을 계산 및 해싱 충돌작업에 대비하는 과정이 필요한 HashMap과 다르게, EnumMap은 Enum의 ‘선언 순서’를 인덱스로 활용하므로, 모든 CRUD과정이 O(1)의 시간을 확보한다.
 
 ### 따라서, Map을 사용하는데 Key가 Enum이라면, EnumMap을 고려하자!
