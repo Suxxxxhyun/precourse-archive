@@ -65,3 +65,4 @@
 - [EnumMap이 HashMap보다 성능이 좋은 이유](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(10).md)
   - EnumMap : **Map의 구현체로, key값으로 Enum이 들어가야하는 구조**
 - [DTO 왜 사용해? Entity와 DTO를 왜 분리해?](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(11).md)
+- [DTO변환 위치 : Controller일까? Service일까?](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(12).md)
