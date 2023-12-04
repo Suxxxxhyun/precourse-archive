@@ -62,3 +62,4 @@
     - 과목 클래스를 포함하는 학생 클래스의 경우 과목 클래스의 코드를 재사용 하기 위해 상속을 사용하지는 않는다.
 - [Enum 캐싱(정적 팩토리 메소드 내용 일부 발췌)](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(8).md)
 - [템플릿 콜백 패턴](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(9).md)
+- []()
