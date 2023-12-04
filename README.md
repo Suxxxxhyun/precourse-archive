@@ -63,3 +63,4 @@
 - [Enum 캐싱(정적 팩토리 메소드 내용 일부 발췌)](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(8).md)
 - [템플릿 콜백 패턴](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(9).md)
 - [EnumMap이 HashMap보다 성능이 좋은 이유](https://github.com/Suxxxxhyun/precourse-archive/blob/main/learning-log/learning-log(10).md)
+  - EnumMap : **Map의 구현체로, key값으로 Enum이 들어가야하는 구조**
