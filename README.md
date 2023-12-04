@@ -7,7 +7,7 @@
 | 크리스마스 프로모션 | [java-christmas-6](https://github.com/Suxxxxhyun/java-christmas-6-Suxxxxhyun/pull/1) |
 | 자판기 | [java-vendingmachine-precourse](https://github.com/woowacourse/java-vendingmachine-precourse/pull/188) |
 | 지하철 노선도 경로 조회 | [java-subway-path-precourse](https://github.com/woowacourse/java-subway-path-precourse/pull/117) |
-| 다리 건너기 |  |
+| 페어매칭 |  |
 
 ## 📄 공통 피드백 모음
 
