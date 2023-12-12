@@ -1,4 +1,4 @@
-## 2023.10.19 ~ 2023.12.
+## 2023.10.19 ~ 2023.12.07
 | project | repository |
 | --- | --- |
 | 숫자야구 | [java-base-ball-6](https://github.com/woowacourse-precourse/java-baseball-6/pull/286) |
@@ -7,7 +7,6 @@
 | 크리스마스 프로모션 | [java-christmas-6](https://github.com/Suxxxxhyun/java-christmas-6-Suxxxxhyun/pull/1) |
 | 자판기 | [java-vendingmachine-precourse](https://github.com/woowacourse/java-vendingmachine-precourse/pull/188) |
 | 지하철 노선도 경로 조회 | [java-subway-path-precourse](https://github.com/woowacourse/java-subway-path-precourse/pull/117) |
-| 페어매칭 |  |
 
 ## 📄 공통 피드백 모음
 
