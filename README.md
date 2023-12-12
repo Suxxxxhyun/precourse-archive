@@ -1,4 +1,4 @@
-## 2023.10.19 ~ 2023.12.07 (약8주)
+## 2023.10.19 ~ 2023.12.07 (약 8주)
 | project | repository |
 | --- | --- |
 | 숫자야구 | [java-base-ball-6](https://github.com/woowacourse-precourse/java-baseball-6/pull/286) |
